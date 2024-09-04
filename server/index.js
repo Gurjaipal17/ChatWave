@@ -23,7 +23,7 @@ const server = app.listen(process.env.PORT, () => {
 
 const io = new Server(server, {
   cors: {
-    origin: "http://localhost:3000",   ///Hosting
+    origin: "https://chat-wave-client.vercel.app/login",   ///Hosting
     credentials: true,
   },
 });
