@@ -3,6 +3,7 @@
 
 ChatWave is a fully-featured messaging application built using modern web technologies. It includes real-time messaging, voice and video calling, and more. The application is designed to be scalable, secure, and user-friendly.
 
+#Author
 **Made by Gurjaipal Singh (Roll No. 220120008), IIT Dharwad**
 
 ## Features
