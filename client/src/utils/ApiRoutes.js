@@ -1,6 +1,6 @@
 
 
-export const HOST = "http://localhost:3005";
+export const HOST = "https://chat-wave-server-delta.vercel.app/";
 
 const authRoute = `${HOST}/api/auth`;
 const MESSAGES_ROUTE = `${HOST}/api/messages`;
