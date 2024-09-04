@@ -43,12 +43,7 @@ ChatWave is a fully-featured messaging application built using modern web techno
       cd client
       yarn
       ```
-    - Create a `.env` file in the `client` directory with the following content:
-      ```env
-      NEXT_PUBLIC_FIREBASE_API_KEY=<Your Firebase API Key>
-      NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=<Your Firebase Auth Domain>
-      NEXT_PUBLIC_FIREBASE_PROJECT_ID=<Your Firebase Project ID>
-      ```
+ 
 
 3. **Set Up Server**:
     - Navigate to the server directory and install dependencies:
