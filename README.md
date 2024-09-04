@@ -88,7 +88,6 @@ Roll No. 220120008, IIT Dharwad
 
 - **Configuration**: Ensure your environment variables and configuration files are correctly set up for both the backend and frontend.
 - **Database Setup**: Make sure your PostgreSQL database is properly configured and connected.
-- 
 
 
 
