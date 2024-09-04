@@ -56,10 +56,7 @@ ChatWave is a fully-featured messaging application built using modern web techno
       npx prisma init
       npx prisma generate
       ```
-    - Create a `.env` file in the `server` directory with the following content:
-      ```env
-      DATABASE_URL=postgresql://<username>:<password>@<host>:<port>/<database>
-      ```
+    
 
 4. **Run the Backend Server**:
     - Start the backend server to handle real-time messaging and other backend services:
@@ -90,14 +87,4 @@ ChatWave is a fully-featured messaging application built using modern web techno
     yarn test
     ```
 
-## Contributing
 
-We welcome contributions to the ChatWave project! If you have suggestions or improvements, please submit issues or pull requests.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-Special thanks to the open-source community and contributors for their invaluable support and tools.
