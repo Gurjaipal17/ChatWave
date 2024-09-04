@@ -82,9 +82,3 @@ ChatWave is a fully-featured messaging application built using modern web techno
 
 - **Configuration**: Ensure your environment variables and configuration files are correctly set up for both the backend and frontend.
 - **Database Setup**: Make sure your PostgreSQL database is properly configured and connected.
-- **Testing**: For running tests, use the following command:
-    ```sh
-    yarn test
-    ```
-
-
