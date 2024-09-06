@@ -8,6 +8,8 @@ ChatWave is a fully-featured messaging application built using modern web techno
 **Gurjaipal Singh**  
 Roll No. 220120008, IIT Dharwad
 
+***Check the demo.mp4 video for demo usage.***
+
 ## Features
 
 - **Login with Google using Firebase**: Seamlessly sign in with your Google account via Firebase integration.
